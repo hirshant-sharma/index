@@ -1,0 +1,13 @@
+<!Doctype html>
+<head>
+<body>
+<b>hi its my world</b><br>
+<input text="title" name=""><br>
+<abbr title="indeependent nation declared in agust">INDIA</abbr><INDIA></abbr><br>
+<p> its my favorite car <del>thsr</del> thar</p>
+<p>car =<q>Lamborgini</q></p> 
+<small>i am raga</small><br>
+<a herf="https://www.youtube.com" > visit= youtube.com </a><br>
+<mark>my chanale</mark>
+</body>
+</head>  
